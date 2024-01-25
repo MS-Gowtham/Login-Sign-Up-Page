@@ -1,4 +1,4 @@
-windows.alert("Opened");
+
 
 //No Custom JavaScript
 /**
